@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GeekShop for Nintendo 3DS
 
 You can use the [editor on GitHub](https://github.com/GeekShop-3DS/GeekShop-3DS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
